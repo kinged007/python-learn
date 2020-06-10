@@ -6,6 +6,7 @@ import pandas_datareader.data as web
 
 style.use('ggplot')
 
+
 ''' //////////////////////////////////
 	Fetch data from a live data feed 
 	//////////////////////////////////'''

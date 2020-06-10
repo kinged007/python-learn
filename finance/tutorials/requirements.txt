@@ -1,0 +1,4 @@
+matplotlib
+DateTime
+pandas
+pandas_datareader
